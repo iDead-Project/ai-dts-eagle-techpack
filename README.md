@@ -20,79 +20,71 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 
 <h2>🛠️ Supported Branches</h2>
 
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Kernel</th>
-      <th>Codec</th>
-      <th>DTS Headphone:X</th>
-      <th>DTS:X Ultra</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>4.14</td>
-      <td>WCD9330</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-wcd9330">4.14-wcd9330</a></td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-dtsx-ultra">4.14-dtsx-ultra</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD9335</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-wcd9335">4.14-wcd9335</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD934X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-wcd934x">4.14-wcd934x</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD937X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-wcd937x">4.14-wcd937x</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD938X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.14-wcd938x">4.14-wcd938x</a></td>
-      <td></td>
-    </tr>
-
-    <tr>
-      <td>4.19</td>
-      <td>WCD9330</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-wcd9330">4.19-wcd9330</a></td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-dtsx-ultra">4.19-dtsx-ultra</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD9335</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-wcd9335">4.19-wcd9335</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD934X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-wcd934x">4.19-wcd934x</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD937X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-wcd937x">4.19-wcd937x</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>WCD938X</td>
-      <td><a href="https://github.com/iDead-Project/AiDTS-Eagle/tree/4.19-wcd938x">4.19-wcd938x</a></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Kernel Version</th>
+    <th class="tg-c3ow">Codec</th>
+    <th class="tg-c3ow">DTS Headphone:X</th>
+    <th class="tg-c3ow">DTS:X Ultra</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8" rowspan="5">4.14</td>
+    <td class="tg-0pky">WCD9330</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd9330-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd9330-hpx</a></td>
+    <td class="tg-9wq8" rowspan="5"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd93xx-ultra" target="_blank" rel="noopener noreferrer">4.14-wcd93xx-ultra</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">WCD9335</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd9335-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd9335-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">WCD834X</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd934x-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd934x-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">WCD937X</td>
+    <td class="tg-baqh"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd937x-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd937x-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">WCD938X</td>
+    <td class="tg-baqh"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd938x-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd938x-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8" rowspan="5">4.19</td>
+    <td class="tg-0pky">WCD9330</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd9330-hpx" target="_blank" rel="noopener noreferrer">4.19-wcd9330-hpx</a></td>
+    <td class="tg-9wq8" rowspan="5"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd93xx-ultra" target="_blank" rel="noopener noreferrer">4.19-wcd93xx-ultra</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">WCD9335</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd9335-hpx" target="_blank" rel="noopener noreferrer">4.19-wcd9335-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">WCD934X</td>
+    <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd934x-hpx" target="_blank" rel="noopener noreferrer">4.19-wcd934x-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">WCD937X</td>
+    <td class="tg-baqh"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd937x-hpx" target="_blank" rel="noopener noreferrer">4.19-wcd937x-hpx</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">WCD938X</td>
+    <td class="tg-baqh"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.19-wcd938x-hpx" target="_blank" rel="noopener noreferrer">4.19-wcd938x-hpx</a></td>
+  </tr>
+</tbody></table>
 
 <p><em>ℹ️ DTS:X Ultra branches are universal per kernel version, so only one branch is shown per kernel.</em></p>
 
