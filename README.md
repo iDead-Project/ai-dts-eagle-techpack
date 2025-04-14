@@ -39,7 +39,7 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
     <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd9335-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd9335-hpx</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">WCD834X</td>
+    <td class="tg-0pky">WCD934X</td>
     <td class="tg-c3ow"><a href="https://github.com/iDead-Project/ai-dts-eagle-techpack/tree/4.14-wcd934x-hpx" target="_blank" rel="noopener noreferrer">4.14-wcd934x-hpx</a></td>
   </tr>
   <tr>
