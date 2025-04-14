@@ -105,7 +105,7 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 <h2>🔗 References</h2>
 <ul>
   <li>DTS GitLab Source: <a href="https://gitlab.com/dts_project">https://gitlab.com/dts_project</a></li>
-  <li>Android Integration: <a href="[https://github.com/iDead-Project/AiDTS-X](https://github.com/iDead-Project/ai-dtsx-app-adv)">AiDTS:X App</a></li>
+  <li>Android Integration: <a href="https://github.com/iDead-Project/ai-dtsx-app-adv">AiDTS:X App</a></li>
 </ul>
 
 <hr>
