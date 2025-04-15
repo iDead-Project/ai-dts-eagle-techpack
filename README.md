@@ -75,6 +75,7 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 </tbody></table>
 
 <p><em>ℹ️ DTS:X Ultra branches are universal per kernel version, so only one branch is shown per kernel.</em></p>
+<p><em>ℹ️ GKI support soon!!</em></p>
 
 <hr>
 
