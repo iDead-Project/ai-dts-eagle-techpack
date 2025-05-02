@@ -208,6 +208,7 @@ ifdef CONFIG_DIGITAL_CDC_RSC_MGR
 	Q6_OBJS += digital-cdc-rsc-mgr.o
 endif
 
+<<<<<<< HEAD
 ifdef CONFIG_ELLIPTICLABS
 	ELLIPTICLABS_OBJS += apr_elliptic.o
 	ELLIPTICLABS_OBJS += elliptic/elliptic.o
@@ -216,6 +217,10 @@ ifdef CONFIG_ELLIPTICLABS
 	ELLIPTICLABS_OBJS += elliptic/io_modules/msm/elliptic_data_msm_io.o
 	ELLIPTICLABS_OBJS += elliptic/io_modules/userspace/elliptic_data_userspace_io.o
 	ELLIPTICLABS_OBJS += elliptic/io_modules/userspace/elliptic_data_userspace_ctrl.o
+=======
+ifdef CONFIG_AINUR_DTS_HW
+ 	AINUR_DTS_HW_OBJS += dts_eagle/dts_eagle_drv.o
+>>>>>>> 2e0af0abb551 (drivers: import of dts_eagle hardware driver)
 endif
 
 LINUX_INC +=	-Iinclude/linux
@@ -289,3 +294,6 @@ q6_notifier_dlkm-y := $(QDSP6_NOTIFIER_OBJS)
 
 obj-$(CONFIG_ELLIPTICLABS) += elliptic_dlkm.o
 elliptic_dlkm-y := $(ELLIPTICLABS_OBJS)
+
+obj-$(CONFIG_AINUR_DTS_HW) += dts_eagle_dlkm.o
+dts_eagle_dlkm-y := $(AINUR_DTS_HW_OBJS)

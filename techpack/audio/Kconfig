@@ -176,5 +176,8 @@ config ELLIPTICLABS
 	tristate "Elliptic Labs fake proximity sensor support"
 config SOUND_CONTROL
 	bool "Sound Control for msm89xx"
+config AINUR_DTS_HW
+    bool "Ainur DTS hardware driver"
+ 	depends on SND_SOC_QDSP6V2
 
 endmenu
