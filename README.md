@@ -114,5 +114,11 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 <h2>💬 Contributions</h2>
 <p>Have patches or want to help improve support for your codec? Feel free to open a pull request or issue!</p>
 
+<h2>🙌 Credits</h2>
+<ul>
+  <li><strong>@asterixiverz</strong> — for the <em>4.19 base kernel source</em></li>
+  <li><strong>DTS-Eagle team</strong> — as the original concept authors and pioneers behind the DTS-Eagle feature set</li>
+</ul>
+
 </body>
 </html>
