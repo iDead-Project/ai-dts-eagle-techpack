@@ -121,6 +121,7 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 <h2>🙌 Credits</h2>
 <ul>
   <li><a href="https://github.com/asterixiverz">@asterixiverz</a> — for the <em>4.19 base kernel source</em></li>
+  <li><a href="https://github.com/user-why-red">@user-why-red</a> — for the <em>4.19-retrofit base kernel source</em></li>
   <li><strong>DTS-Eagle team</strong> — original developers and visionaries behind the DTS-Eagle feature set</li>
 </ul>
 
