@@ -79,6 +79,13 @@ It enables advanced DTS audio features such as <strong>DTS Headphone:X</strong> 
 
 <hr>
 
+<hr>
+<div style="background-color: #ffeeba; border: 1px solid #f0ad4e; padding: 10px; margin-top: 20px;">
+  <strong>⚠️ Warning:</strong> Some kernel sources might be a result of retrofit bring-up (e.g., from 4.4 to 4.19, commonly found on SDM660-based devices).<br>
+  If you're using such a kernel, make sure to use a dedicated branch that ends with the <code>-shpx</code> suffix (e.g., <code>4.19-wcd937x-shpx</code>) to ensure compatibility.
+</div>
+<hr>
+
 <h2>🎧 DTS Variant Requirements</h2>
 
 <h3>📀 DTS Headphone:X</h3>
